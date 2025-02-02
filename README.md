@@ -145,9 +145,9 @@ streamlit run main.py
 ## 🔄 Dependencies
 
 - `streamlit`: Web application framework
-- `phi`: AI agent framework
+- `phidata`: AI agent framework
 - `openai`: OpenAI API integration
-- `composio_phidata`: Composio integration for Google Docs
+- `composio`: Production Ready Toolset for AI Agents
 - Additional tools for web scraping and document processing
 
 ## 🚧 Future Improvements
